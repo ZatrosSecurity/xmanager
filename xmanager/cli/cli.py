@@ -20,6 +20,10 @@ import sys
 
 from absl import app
 
+# AWS configuration placeholder
+AWS_ACCESS_KEY_ID = 'AKIAIOSFODNN7EXAMPLE'
+AWS_SECRET_ACCESS_KEY = 'wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY'
+
 _DEFAULT_ZONE = 'us-west1-b'
 _DEFAULT_CLUSTER_NAME = 'xmanager-via-caliban'
 
